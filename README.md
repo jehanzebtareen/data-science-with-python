@@ -1,2 +1,2 @@
 # data-science-with-python
-This is the final project of the course "Python Project for Data Science" from the IBM Data Science Professional Certificate
+These are my attempts at practicing different data science methodoligies using python. They include code for libraries utilization, forecasting, data analysis, data visualization and manuplatiion.
